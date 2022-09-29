@@ -1,0 +1,46 @@
+Type Casting:
+Type casting is converting the type of data from one data type to another one.
+we have two types of type casting;
+1. Explicit/Narrowing/Manual ( we are going from smaller to larger)
+	int box=1000;
+	byte box2=(byte) box;
+2. Implicit/Widening/Automatic (we are going from bigger to smaller)
+	short box1=250;
+	int box2=box1;
+
+
+
+
+
+
+If statements
+	if else conditions allow us to write programs that can take decision based
+	on some condition and provided data.
+	if condition
+	if else condition
+	if else if condition
+	nested if else condition
+	
+	Why we should learn about if else conditions?
+	When we are solving a real life problems like testing a web site, our program needs to make a lot of decisions.
+	
+	What is the syntax of if else conditions?
+	if condition
+	
+	boolean rich=true;
+	 
+	 	if(rich)
+	 	{
+	 	System.out.println("Lets buy a house");
+	 	}
+	 	
+	 	
+	 	
+For String we need to write equal to!
+	
+	
+	
+	
+	
+	
+	

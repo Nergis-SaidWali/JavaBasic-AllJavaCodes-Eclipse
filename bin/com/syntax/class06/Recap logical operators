@@ -1,0 +1,35 @@
+Java Class 6
+
+Logical AND && - all conditions MUST be true for logical AND return true
+
+
+
+
+Compiler
+
+Default Values of Variables:
+int= 0;
+double= 0.0;
+boolean= false;
+
+String and other non primitives= null;
+
+switch case - statement executes one statement from multiple values/conditions.
+Similar to if else if conditions
+
+
+
+
+
+SYNTAX
+
+switch (variable) {
+	case value1:
+		code A;
+		break;
+	case value2:
+		code B;
+		break;
+	default:
+		code C;
+		break;

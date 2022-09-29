@@ -1,0 +1,9 @@
+Java Class 9
+
+break and continue;
+
+break - break/exit loop block (it exit one block of code, doesn't go to the end of the whole code
+continue - skips current execution/iteration
+
+nested loop - loop inside another loop
+

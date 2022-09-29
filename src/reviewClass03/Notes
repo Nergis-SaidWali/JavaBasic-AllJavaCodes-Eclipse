@@ -1,0 +1,12 @@
+Logical Operators:
+	Logical operators help us test more than one condition. In Java, we have && 'AND' operator, || 'OR' operator and ! 'NOT' operator.
+	
+Why we should learn Logical Operators?
+	Logical operators help us reduce the number of if-conditions that we write in certain cases.
+	
+What is the syntax?
+	if(condition && condition2) {
+	
+	}
+	
+	I can replace nested if conditions with logical && 'AND' operator. Logical || 'OR' can be replaced with if else if conditions.

@@ -1,0 +1,24 @@
+Java class 10
+
+array - container object that holds multiple values of the same type
+
+Why do we use arrays?
+When we will be working a lot of data, it saves time
+
+how to create an array?
+
+int[] nums=new int[];
+
+//how to get all elements from an array?
+for(int i=o; i<num.length; i++) {
+System.out.println(nums[i]
+}
+
+-------------------------------------------------------------------------
+
+Advanced for loop/Enhanced loop/for each loop
+It works only when we work with array or collection.
+It only loops 1 direction
+
+for(int num:nums) {
+	System.out.println(num)

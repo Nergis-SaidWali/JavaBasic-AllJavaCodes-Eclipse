@@ -1,0 +1,81 @@
+Type Casting(primitive data types):
+
+Type casting is converting one data type to another one.
+For example; we can convert a short to byte, a long to a float.
+There are two main types implicit/widening/automatic and explicit/narrowing/Manual
+
+Implicit/widening/automatic Type casting:
+	When Java converts the data types automatically for us. It only happends when we assign
+a smaller data type to a larger data type, because there is no data loss in this conversion.
+
+Explicit/narrowing/manual Type casting:
+	When we convert a larger data type to a smaller data type it is called Explicit/narrowing/Manual. It doesn't
+happen automatically we have to do it explicitly Manually.
+
+Why do we use type casting?
+	It may happen when lot of people are working in a project and each of them are using different data type. 
+In that case if we have to merge it , then we do this.
+
+Why should we learn type casting?
+	When we write code in our real life most of the time, we use the code from others to save time and we might also need to
+convert the data types to make our code compatible with their code.
+when the types of variables are different in 3,00,000 lines of code so we don't have to
+change it just because we are using something different.
+
+What is the syntax for type casting?
+	We use () and inside the () we write the destination data type. 
+For example: if we want to convert a long to an int, this is how we do it;
+long var1=250;
+int var2=(int)var1; (it's an explicit type casting)
+double var3=var2
+
+Float f=250.5f;
+double d=f;//implicit/widening/automatic
+======================================================================================================
+
+
+If else conditions
+	if else conditions hep us to write code that can take the decision based on data.
+Why should we learn about if else?
+	Because when we are solving a real life problem like testing a website
+our programs need to make a lot of decisions.
+
+IF (the given username and password matches) {go to home page} ELSE {give user a warning}
+
+What is the syntax for If else conditions?
+
+			boolean isHungry=true;
+			If(isHungry){
+			System.out.println("Please eat something");
+			}else{
+			System.out.println("Lets build some java programs")
+			}
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

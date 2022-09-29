@@ -1,0 +1,4 @@
+Nested if conditions:
+	An if condition inside an if condition
+	
+	execution will happen from outer to inner conditions? If outer doesnt pass inner conditions wont matter.

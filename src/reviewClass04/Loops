@@ -1,0 +1,19 @@
+Loops:
+	Loops in Java help us execute a piece of code again and again.
+	
+Why we should learn about loops?
+	Because loops help us write cleaner and scalable code. If you have to test a password field on a web page, you can create different
+	variations of data in an excel sheet. Then, you pick all the values one by one and test the field.
+
+How many types of loops?
+For loop
+While loop
+Do while loop
+Enhanced for loop
+
+
+For loop syntax:
+
+	for(starting point; last point; step size) {
+	Code to repeat
+	}
